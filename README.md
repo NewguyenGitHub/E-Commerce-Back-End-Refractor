@@ -29,14 +29,27 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Installation
 
-npm i
-node index.js
+npm init -y
+npm install mysql12
+npm install sequelize
+npm install dotnev
+
+mysql -u root -p
+source db/schema.sql
+npm run seed
+npm start
 
 ## Usage
 
 This is an object-relational-mapping file for an E-Commerce store that tests API routes using Insomnia.
 
-[E-Commerce-Back-End-Walk-Through](https://user-images.githubusercontent.com/118239578/219817208-510538be-c49a-4dcb-a258-56d43c496d06.mp4)
+[E-Commerce-Back-End-Walk-Through]()
+
+[E-Commerce-Back-End-Category-Routes](assets/demo/CategoryRoutes.gif)
+
+[E-Commerce-Back-End-Product-Routes](assets/demo/ProductRoutes.gif)
+
+[E-Commerce-Back-End-Tag-Routes](assets/demo/TagRoutes.gif)
 
 ## Credits
 
