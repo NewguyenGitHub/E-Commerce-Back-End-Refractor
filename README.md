@@ -43,7 +43,7 @@ npm start
 
 This is an object-relational-mapping file for an E-Commerce store that tests API routes using Insomnia.
 
-[E-Commerce-Back-End-Walk-Through]()
+[E-Commerce-Back-End-Walk-Through](https://user-images.githubusercontent.com/118239578/227810341-f6e5d6c5-9193-45cf-8141-d9bdd83a4873.mp4)
 
 [E-Commerce-Back-End-Category-Routes](assets/demo/CategoryRoutes.gif)
 
